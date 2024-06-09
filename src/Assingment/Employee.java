@@ -8,7 +8,6 @@ public class Employee {
 	
 	//method
 	void getEmployeeInfo(){
-		sys
 		
 	}
 		
