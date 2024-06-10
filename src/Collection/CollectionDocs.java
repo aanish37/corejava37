@@ -18,8 +18,10 @@ public class CollectionDocs {
 	 *        b> TreeMap       :<k,v> + Sorted data
 	 *        c> LinkedHashMap :<k,v> + insertion in data
 	 *        
-	 *        //q1> create list of book
+	 *        //q1> create list of cow
 	 *        //q2> create list of dog
+	 *        
+	 *        
 	 */
 
 }
